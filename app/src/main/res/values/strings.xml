@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FlexBox Tags</string>
+    <string name="option_1">Option 1 hjlkhl buybluy lublub lniuny niuniu yiluny liunyl iunyliuny liunliulin</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3 hjlkhl</string>
+    <string name="option_4">Option 4</string>
+    <string name="option_5">Option 5 hjlkhl buybluy</string>
+    <string name="option_6">Option 6</string>
+
+    <string name="txt_switch_1">Setting 1</string>
+    <string name="txt_switch_2">Setting 2</string>
+    <string name="txt_switch_3">Setting 3</string>
+    <string name="txt_switch_4">Setting 4</string>
+    <string name="txt_switch_5">Setting 5</string>
+    <string name="txt_switch_6">Setting 6</string>
+
+    <string name="option_err">Garbage</string>
+</resources>
