@@ -1,9 +1,9 @@
 package com.example.kanj.flexboxtags;
 
 import android.content.res.Resources;
+import android.os.Bundle;
 import android.support.annotation.StringRes;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.support.v7.widget.CardView;
 import android.util.Log;
 import android.view.View;
